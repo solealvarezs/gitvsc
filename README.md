@@ -1,2 +1,2 @@
 # gitvsc
-aprendiendo a usar git desde vsc
+aprendiendo a usar GIT desde vsc!!
